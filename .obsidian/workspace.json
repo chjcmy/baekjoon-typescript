@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5DAY_MASTER_PLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "5DAY_MASTER_PLAN"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5DAY_MASTER_PLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 5DAY_MASTER_PLAN"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "5DAY_MASTER_PLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 5DAY_MASTER_PLAN"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "5DAY_MASTER_PLAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 5DAY_MASTER_PLAN"
             }
           }
         ]
@@ -170,16 +170,18 @@
   },
   "active": "0fab0d00b9065877",
   "lastOpenFiles": [
-    "5DAY_MASTER_PLAN.md",
+    "src/silver4/1920.js.tmp.33302.1754933084742",
+    "convert-for-submit.js",
     "src/silver4/10773.ts",
-    "src/gold3/2252.ts",
-    "src/gold3/1516.ts",
-    "src/gold3/2638.ts",
-    "src/gold3/11054.ts",
-    "src/gold3/11054.ts.tmp.48012.1754900124231",
-    "src/gold3/1238.ts",
-    "src/gold3/16235.ts",
-    "src/gold3/2206.ts",
-    "src/gold3/1865.ts"
+    "src/silver4/10773_debug.js",
+    "src/silver4/10773.js.tmp.97121.1754915290671",
+    "input.txt",
+    "src/silver4/10773_test.js",
+    "src/silver4/10773_test.js.tmp.97121.1754915197027",
+    "delete_ts_files.py",
+    "delete_ts_files.js",
+    "src/silver3/17626.js",
+    "README.md",
+    "5DAY_MASTER_PLAN.md"
   ]
 }
